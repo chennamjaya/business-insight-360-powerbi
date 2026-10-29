@@ -6,7 +6,23 @@ Business Insight 360 is an interactive Business Intelligence dashboard built usi
 
 ## Dashboard Preview
 
-Home Page.png
+### Home Page
+![Home Page](Home%20Page.png)
+
+### Finance
+![Finance Dashboard](Finance_view.png)
+
+### Sales
+![Sales Dashboard](Sales_view.png)
+
+### Marketing
+![Marketing Dashboard](Marketing_view.png)
+
+### Supply Chain
+![Supply Chain Dashboard](Supplychain_view.png)
+
+### Executive
+![Executive Dashboard](Executive_view.png)
 
 ## Dashboard Modules
 
